@@ -13,10 +13,15 @@ Criar um material reutilizável para estudos futuros.
 # Fontes
 
 https://www.youtube.com/watch?v=wxD8MaD0xXk
+
 https://www.youtube.com/watch?v=7C0k8wsYeV0
+
 https://www.youtube.com/watch?v=k6x3FuBPMiE
+
 https://www.youtube.com/watch?v=I3jGUKBaxBo
+
 https://www.youtube.com/watch?v=-Ka4YKW7RwM
+
 https://www.youtube.com/watch?v=iFDukMTw4Go
 
 # Perguntas Estratégicas Utilizadas
