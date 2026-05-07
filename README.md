@@ -90,3 +90,7 @@ Webhook: Gatilho que envia dados em tempo real quando um evento ocorre.
 1. Explique o que são agentes de IA de forma simples e didática. Depois, aprofunde tecnicamente mostrando como funcionam componentes como memória, planejamento, tomada de decisão e uso de ferramentas externas. Inclua exemplos reais de aplicações atuais.
 
 2. Compare chatbots tradicionais, assistentes virtuais e agentes de IA autônomos. Organize a resposta em tabela, destacando diferenças de autonomia, memória, capacidade de executar tarefas e exemplos práticos de cada tecnologia.
+
+# link do caderno:
+
+https://notebooklm.google.com/notebook/fa55048a-b996-4981-a058-b631296e6e9d
